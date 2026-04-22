@@ -1,1 +1,5 @@
 # Juego_memoria
+Este proyecto consiste en el desarrollo de un juego de memoria con cartas, cuyo objetivo principal es ejercitar la capacidad de recordar posiciones y encontrar pares de cartas iguales. El juego presenta un conjunto de cartas colocadas boca abajo y el jugador debe ir seleccionando dos cartas en cada turno con el propósito de encontrar las parejas correctas.
+Si las cartas seleccionadas coinciden, permanecen descubiertas; en caso contrario, se vuelven a ocultar y el jugador deberá intentar nuevamente recordando su ubicación. El juego continúa hasta que todas las parejas hayan sido encontradas.
+Este programa fue desarrollado como parte de un ejercicio de programación con el fin de aplicar conceptos básicos como el uso de variables, estructuras de control, funciones y manejo de listas. Además, busca reforzar habilidades de lógica, concentración y memoria.
+El proyecto demuestra cómo a través de la programación es posible crear juegos interactivos que combinan aprendizaje, lógica y entretenimiento.
